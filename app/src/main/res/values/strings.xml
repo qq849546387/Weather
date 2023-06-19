@@ -1,3 +1,12 @@
 <resources>
-    <string name="app_name">Weather</string>
+    <string name="app_name">天气</string>
+    <string name="city_beijing">北京</string>
+    <string name="city_shanghai">上海</string>
+    <string name="city_guangzhou">广州</string>
+    <string name="city_shenzhen">深圳</string>
+    <string name="city_suzhou">苏州</string>
+    <string name="city_shenyang">沈阳</string>
+    <string name="power">风力</string>
+    <string name="wind">风向</string>
+    <string name="weather">天气</string>
 </resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="city_beijing">Beijing</string>
+    <string name="city_shanghai">Shanghai</string>
+    <string name="city_guangzhou">Guangzhou</string>
+    <string name="city_shenzhen">Shenzhen</string>
+    <string name="city_suzhou">(JiangSu)Suzhou</string>
+    <string name="city_shenyang">Shenyang</string>
+    <string name="power">Power</string>
+    <string name="wind">Wind</string>
+    <string name="weather">Weather</string>
+</resources>
